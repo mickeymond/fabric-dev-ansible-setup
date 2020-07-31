@@ -8,5 +8,6 @@ Ansible Automation to Setup Hyperledger Fabric Development Environment
 - Install Docker
 - Install Docker-Compose
 - Configure Docker to run without sudo
+- Install Node Development Tools (sudo apt install build-essential)
 - Install NVM (Node Version Manager)
 - Install Node (Version 8 or Version 10)
